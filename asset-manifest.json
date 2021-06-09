@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//pege92.github.io/movie_app_2021/static/css/main.403e67c8.chunk.css",
+    "main.js": "//pege92.github.io/movie_app_2021/static/js/main.48d0a37b.chunk.js",
+    "main.js.map": "//pege92.github.io/movie_app_2021/static/js/main.48d0a37b.chunk.js.map",
+    "runtime-main.js": "//pege92.github.io/movie_app_2021/static/js/runtime-main.4d6b68fd.js",
+    "runtime-main.js.map": "//pege92.github.io/movie_app_2021/static/js/runtime-main.4d6b68fd.js.map",
+    "static/js/2.96fa8c03.chunk.js": "//pege92.github.io/movie_app_2021/static/js/2.96fa8c03.chunk.js",
+    "static/js/2.96fa8c03.chunk.js.map": "//pege92.github.io/movie_app_2021/static/js/2.96fa8c03.chunk.js.map",
+    "index.html": "//pege92.github.io/movie_app_2021/index.html",
+    "static/css/main.403e67c8.chunk.css.map": "//pege92.github.io/movie_app_2021/static/css/main.403e67c8.chunk.css.map",
+    "static/js/2.96fa8c03.chunk.js.LICENSE.txt": "//pege92.github.io/movie_app_2021/static/js/2.96fa8c03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d6b68fd.js",
+    "static/js/2.96fa8c03.chunk.js",
+    "static/css/main.403e67c8.chunk.css",
+    "static/js/main.48d0a37b.chunk.js"
+  ]
+}
